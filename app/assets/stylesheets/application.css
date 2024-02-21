@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+ .navbar-brand {
+  margin-left: 20px;
+ }
